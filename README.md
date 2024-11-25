@@ -28,7 +28,7 @@ To run this project on your local machine:
 2. Install the required libraries:
    pip install -r requirements.txt
 
-#Usage
+##Usage
 Run the Jupyter notebook or Python script to train the model and make predictions.
 
 
